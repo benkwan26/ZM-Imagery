@@ -268,7 +268,7 @@ footer {
 
 @media screen and (max-width: 640px) {
     .welcome-container {
-        background-image: url(/images/welcome-slim.jpg);
+        background-image: url(images/welcome-slim.jpg);
         background-position: center center;
     }
 
